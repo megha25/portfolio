@@ -20,8 +20,7 @@
     min-height: 632px;
     max-height: 864px;
     position: relative;
-   background-color:#000000;
-    color:white;
+   background-image:url(../img/postman-hero.jpg);
 }
 
 #nav_f{
