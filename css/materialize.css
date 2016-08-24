@@ -3,6 +3,9 @@
  * Copyright 2014-2015 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
+ .section no-pad-bot{
+   background-image: url('../img/postman-hero.jpg');
+ }
 .materialize-red.lighten-5 {
   background-color: #fdeaeb !important; }
 
