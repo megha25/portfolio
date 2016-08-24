@@ -20,7 +20,8 @@
     min-height: 632px;
     max-height: 864px;
     position: relative;
-    background-image: url(../img/postman.jpg);
+    background-image:url(../img/postman-hero.jpg); /* path to your loading animation */
+    background-repeat:no-repeat;
 }
 
 #nav_f{
