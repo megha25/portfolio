@@ -5,3 +5,12 @@ background: url("../img/postman-hero.jpg");
     background-size: cover;
     padding-top: 40px;
 }
+
+#footer_id{
+    background-color: #00264d;
+    height:25px;
+    color: white;
+    text-align: center;
+    font-family:cursive;
+
+}
