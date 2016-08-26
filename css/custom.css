@@ -46,7 +46,7 @@ background: url("../img/postman-hero.jpg");
 }
 
 .section1 .card.small .card-content{
-       height: auto;
+       height: 200px;
 }
 
 .section1 .card-action{
