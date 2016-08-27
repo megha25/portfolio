@@ -12,7 +12,12 @@ background: url("../img/postman-hero.jpg");
     color: white;
     text-align: center;
     font-family:cursive;
+    padding-bottom:0px;
+    margin-bottom: 0px;
 
+}
+.footer{
+    background-color: #009999;
 }
 .content1{
     background-color:  #004d99;
