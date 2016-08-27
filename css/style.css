@@ -50,7 +50,7 @@
 
 .text_h2 {font-weight: 100;margin-bottom: 4%; line-height: 4.5rem;}
 
-.span_h2 {font-weight: 300;color: #2196F3;}
+.span_h2 {font-weight: 300;color: #2196F3; background-color: white}
 
 .text_b{color: #2196F3;}
 
@@ -65,7 +65,9 @@
 
 .card-content a:hover {color: #2196F3;}
 
-#work, #team{background: rgb(247, 247, 247);}
+/*#work, #team{
+    background:red;
+}*/
 
 .text_pink{color:#EF9A9A;}
 
