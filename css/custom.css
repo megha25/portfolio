@@ -32,8 +32,10 @@ background: url("../img/postman-hero.jpg");
 	-webkit-box-shadow: 0 0 9px rgba(0, 0, 0, 1.0);
 	-moz-box-shadow: 0 0 9px rgba(0, 0, 0, 1.0);
     border: 3px solid white;
-    float:left;
+    float:none;
     margin-left:0px;
+    position: absolute;
+    left: -160px;
 
 
 
@@ -65,3 +67,7 @@ background: url("../img/postman-hero.jpg");
 #work{
     background-color:white;
 }
+#logo-container{
+   left:-90px;
+}
+
