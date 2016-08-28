@@ -70,4 +70,8 @@ background: url("../img/postman-hero.jpg");
 #logo-container{
    left:-90px;
 }
-
+#col1{
+  display:table;
+    width:70%;
+   margin:0 auto;
+}
