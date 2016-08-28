@@ -1,7 +1,7 @@
 /* Custom Stylesheet */
 /**
  *
- * Made By Joash Pereira
+ *
  * Thanks for MaterializeCSS.com
  */
 
@@ -38,14 +38,15 @@
 }
 
 .brand-logo{
-    position: absolute;
+    position: fixed;
     color: #fff;
     display: inline-block;
     font-size: 2.1rem;
     font-style: normal;
     font-weight: 100;
     padding: 0;
-    letter-spacing: 7px;
+    letter-spacing: 6px;
+
 }
 
 .text_h2 {font-weight: 100;margin-bottom: 4%; line-height: 4.5rem;}
