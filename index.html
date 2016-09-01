@@ -184,7 +184,7 @@
                     </div>
                     <div class="card-reveal">
                         <span class="card-title grey-text text-darken-4">Finding Most Influential Papers using DBLP Citation Dataset<i class="mdi-navigation-close right"></i></span>
-                        <p>Extracted the incoming and outgoing links from the dataset using Java MapReduce program. Developed Hive scripts to compute the top 10 papers with the highest page rank using Weighted PageRank Algorithm.</p>
+                        <p>Extracted the incoming and outgoing links from the DBLP Citation dataset using Java MapReduce program. Developed Hive scripts to compute the top 10 papers with the highest page rank using Weighted PageRank Algorithm.</p>
                     </div>
                 </div>
             </div>
@@ -213,8 +213,9 @@
                         <p><a href="#">Project link</a></p>
                     </div>
                     <div class="card-reveal">
-                        <span class="card-title grey-text text-darken-4">Project Title <i class="mdi-navigation-close right"></i></span>
-                        <p>Here is some more information about this project that is only revealed once clicked on.</p>
+                        <span class="card-title grey-text text-darken-4">Finding Twitter symmetric social relations<i class="mdi-navigation-close right"></i></span>
+                        <p>The “following” relation in twitter is not necessarily a symmetric relation. User A may follow user B while user B may or may not follow user A. The goal of this project was to find all pairs of users A, B such that A follows B and B follows A. </p>
+                        <p>Input dataset for the project was a large text file of Twitter's social graph that contains over a billion social relations between twitter users. The size of the dataset was 25 GB. Developed a MapReduce job to extract such users A, and users B that follow each other. Executed the MapReduce locally first on a sample dataset and finally on Amazon Web Service using the Amazon Elastic MapReduce.</p>
                     </div>
                 </div>
             </div>
