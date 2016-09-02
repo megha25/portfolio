@@ -70,11 +70,17 @@ background: url("../img/postman-hero.jpg");
 #logo-container{
    left:-90px;
 }
-#col1{
+/*#col1{
   display:table;
     width:70%;
    margin:0 auto;
+}*/
+
+#projects .card .card-content{
+        height: 200px!important;
 }
-#project1{
-    height: auto;
-}
+/*#project2{
+    height: 504px;
+    align-content:center;
+
+}*/
